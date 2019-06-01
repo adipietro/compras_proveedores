@@ -179,11 +179,6 @@ WindowsApplication1
 	<summary>
   Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
 </summary>
-</member><member name="M:WindowsApplication1.DeclararFamilias.CargarTags(System.Windows.Forms.Control)">
-	<summary>
- Carga en pControl.Tag el texto que tiene pControl al momento de instanciar el Form
- </summary>
-	<param name="pControl"></param>
 </member><member name="T:WindowsApplication1.ProductosProveedoresDataSet.OrdenCompraDataTable">
 	<summary>
 Represents the strongly named DataTable class.
@@ -236,6 +231,11 @@ Used to sort self-referenced table's rows
 	<summary>
 TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
 </summary>
+</member><member name="M:WindowsApplication1.DeclararFamilias.CargarTags(System.Windows.Forms.Control)">
+	<summary>
+ Carga en pControl.Tag el texto que tiene pControl al momento de instanciar el Form
+ </summary>
+	<param name="pControl"></param>
 </member><member name="T:WindowsApplication1.ProductosProveedoresDataSet1.OrdenCompraDataTable">
 	<summary>
 Represents the strongly named DataTable class.

@@ -22,3 +22,11 @@ C:\Users\anydi\Documents\Facu\ComprasProveedoresII\BE\obj\Debug\BE.vbproj.Genera
 C:\Users\anydi\Documents\Facu\ComprasProveedoresII\BE\obj\Debug\BE.dll
 C:\Users\anydi\Documents\Facu\ComprasProveedoresII\BE\obj\Debug\BE.xml
 C:\Users\anydi\Documents\Facu\ComprasProveedoresII\BE\obj\Debug\BE.pdb
+C:\Users\anydi\Documents\GitHub\compras_proveedores\BE\bin\Debug\BE.dll
+C:\Users\anydi\Documents\GitHub\compras_proveedores\BE\bin\Debug\BE.pdb
+C:\Users\anydi\Documents\GitHub\compras_proveedores\BE\bin\Debug\BE.xml
+C:\Users\anydi\Documents\GitHub\compras_proveedores\BE\obj\Debug\BE.Resources.resources
+C:\Users\anydi\Documents\GitHub\compras_proveedores\BE\obj\Debug\BE.vbproj.GenerateResource.Cache
+C:\Users\anydi\Documents\GitHub\compras_proveedores\BE\obj\Debug\BE.dll
+C:\Users\anydi\Documents\GitHub\compras_proveedores\BE\obj\Debug\BE.xml
+C:\Users\anydi\Documents\GitHub\compras_proveedores\BE\obj\Debug\BE.pdb

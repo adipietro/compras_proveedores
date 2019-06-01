@@ -111,6 +111,27 @@ Public Class PatenteDAL
 
     End Function
 
+    Private Shared Function ObtenerPatentesHojas(Patentes As HashSet(Of BE.PatenteAbsBE)) As HashSet(Of BE.PatenteBE)
+        Dim ret As New HashSet(Of BE.PatenteBE)
+        For Each patente In Patentes
+            If TypeOf patente Is GrupoPatenteBE Then
+                Dim grp As GrupoPatenteBE = DirectCast(patente, GrupoPatenteBE)
+                ret.UnionWith(obtenerPatentesHojas(grp.Patentes))
+            Else
+                Dim pat As PatenteBE = DirectCast(patente, PatenteBE)
+                ret.Add(pat)
+            End If
+        Next
+        Return ret
+    End Function
+
+
+    Public Shared Function listarPatentesHojasUsuario(usuarioSeleccionado As UsuarioBE) As HashSet(Of PatenteBE)
+        Dim patentes = listarPatentesUsuario(usuarioSeleccionado)
+        Return ObtenerPatentesHojas(patentes)
+    End Function
+
+
     Public Shared Function listarPatentesUsuario(usuarioSeleccionado As UsuarioBE) As HashSet(Of PatenteAbsBE)
         Dim mLista As New HashSet(Of BE.PatenteAbsBE)
         Dim mCommand As String = ""

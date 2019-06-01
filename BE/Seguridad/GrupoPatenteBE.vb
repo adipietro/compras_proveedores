@@ -16,4 +16,7 @@ Public Class GrupoPatenteBE
         End Set
     End Property
 
+
+
+
 End Class

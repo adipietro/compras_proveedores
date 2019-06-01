@@ -11,7 +11,9 @@ Public Class FormularioDAL
     End Function
 
     Public Shared Function ObtenerFormulariosUsuario(usuario As UsuarioBE) As HashSet(Of FormularioBE)
-        Dim patentes = PatenteDAL.listarPatentesUsuario(usuario)
+        Dim patentes = PatenteDAL.listarPatentesHojasUsuario(usuario)
+
+        
         Dim formularios As New Dictionary(Of String, FormularioBE)
         Try
             For Each patente As PatenteBE In patentes

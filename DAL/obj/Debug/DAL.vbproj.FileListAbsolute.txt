@@ -34,3 +34,15 @@ C:\Users\anydi\Documents\Facu\ComprasProveedoresII\DAL\obj\Debug\DAL.vbproj.Gene
 C:\Users\anydi\Documents\Facu\ComprasProveedoresII\DAL\obj\Debug\DAL.dll
 C:\Users\anydi\Documents\Facu\ComprasProveedoresII\DAL\obj\Debug\DAL.xml
 C:\Users\anydi\Documents\Facu\ComprasProveedoresII\DAL\obj\Debug\DAL.pdb
+C:\Users\anydi\Documents\GitHub\compras_proveedores\DAL\bin\Debug\DAL.dll
+C:\Users\anydi\Documents\GitHub\compras_proveedores\DAL\bin\Debug\DAL.pdb
+C:\Users\anydi\Documents\GitHub\compras_proveedores\DAL\bin\Debug\DAL.xml
+C:\Users\anydi\Documents\GitHub\compras_proveedores\DAL\bin\Debug\BE.dll
+C:\Users\anydi\Documents\GitHub\compras_proveedores\DAL\bin\Debug\BE.pdb
+C:\Users\anydi\Documents\GitHub\compras_proveedores\DAL\bin\Debug\BE.xml
+C:\Users\anydi\Documents\GitHub\compras_proveedores\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\anydi\Documents\GitHub\compras_proveedores\DAL\obj\Debug\DAL.Resources.resources
+C:\Users\anydi\Documents\GitHub\compras_proveedores\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+C:\Users\anydi\Documents\GitHub\compras_proveedores\DAL\obj\Debug\DAL.dll
+C:\Users\anydi\Documents\GitHub\compras_proveedores\DAL\obj\Debug\DAL.xml
+C:\Users\anydi\Documents\GitHub\compras_proveedores\DAL\obj\Debug\DAL.pdb
