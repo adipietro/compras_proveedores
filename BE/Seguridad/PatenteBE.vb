@@ -1,0 +1,4 @@
+﻿Public Class PatenteBE
+    Inherits PatenteAbsBE
+
+End Class

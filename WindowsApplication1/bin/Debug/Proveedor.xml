@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<ProveedorBE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>23</ID>
+  <CUIT>3322233338</CUIT>
+  <Nombre>Amsa SA</Nombre>
+  <Ciudad>
+    <ID>0</ID>
+    <Nombre>Ciudad Autónoma de Bs As</Nombre>
+    <CP>-</CP>
+    <Provincia>
+      <ID>0</ID>
+      <Nombre>1</Nombre>
+    </Provincia>
+  </Ciudad>
+  <Provincia>
+    <ID>0</ID>
+    <Nombre>Ciudad Autónoma de Bs As</Nombre>
+  </Provincia>
+  <Pais>
+    <ID>0</ID>
+    <NombrePais>Argentina</NombrePais>
+  </Pais>
+  <Telefono>(011)2333-3333</Telefono>
+  <Celular>(344)34444444</Celular>
+  <CorreoElectronico>amsa@gmail.com</CorreoElectronico>
+</ProveedorBE>
