@@ -1,0 +1,11 @@
+app.config
+BE\bin
+BE\obj
+BLL\bin
+BLL\obj
+DAL\bin
+DAL\obj
+GUI\bin
+GUI\obj
+WindowsApplication1\bin
+WindowsApplication1\obj
